@@ -1,7 +1,6 @@
 ## Hi, I'm John 👋
 
-### About me
-- Site Reliability Engineer @Udemy 🚀
+- 🚀 I am a Site Reliability Engineer @Udemy
 
 <!--
 **jpenagg/jpenagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
